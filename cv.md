@@ -15,4 +15,4 @@ Programming cooking and makeup
 # ENG
  i learned english myself from youtube videos, a little from school but in school english is very easy.
 
-# ** i hope u guys liked my resume bye!**
+#  i hope u guys liked my resume bye!
